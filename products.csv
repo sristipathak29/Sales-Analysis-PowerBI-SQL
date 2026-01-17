@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,UnitCost
+1,Product 1,Office Supplies,349.51
+2,Product 2,Furniture,207.43
+3,Product 3,Furniture,90.78
+4,Product 4,Office Supplies,82.44
+5,Product 5,Office Supplies,128.87
+6,Product 6,Furniture,276.87
+7,Product 7,Office Supplies,358.72
+8,Product 8,Technology,331.8
+9,Product 9,Furniture,143.57
+10,Product 10,Office Supplies,477.66
+11,Product 11,Furniture,370.26
+12,Product 12,Technology,279.41
+13,Product 13,Furniture,307.8
+14,Product 14,Furniture,212.7
+15,Product 15,Furniture,127.63
+16,Product 16,Furniture,181.21
+17,Product 17,Technology,380.13
+18,Product 18,Furniture,12.12
+19,Product 19,Furniture,62.46
+20,Product 20,Office Supplies,27.77
+21,Product 21,Furniture,25.16
+22,Product 22,Office Supplies,428.45
+23,Product 23,Technology,353.31
+24,Product 24,Technology,239.72
+25,Product 25,Technology,53.43
+26,Product 26,Technology,248.35
+27,Product 27,Office Supplies,239.37
+28,Product 28,Furniture,90.73
+29,Product 29,Technology,219.76
+30,Product 30,Furniture,202.26
+31,Product 31,Office Supplies,309.85
+32,Product 32,Office Supplies,319.37
+33,Product 33,Office Supplies,27.43
+34,Product 34,Technology,190.43
+35,Product 35,Furniture,314.8
+36,Product 36,Furniture,254.05
+37,Product 37,Furniture,428.96
+38,Product 38,Office Supplies,331.05
+39,Product 39,Technology,85.65
+40,Product 40,Office Supplies,39.93
+41,Product 41,Office Supplies,323.0
+42,Product 42,Furniture,18.12
+43,Product 43,Office Supplies,294.96
+44,Product 44,Furniture,470.41
+45,Product 45,Technology,289.86
+46,Product 46,Furniture,197.14
+47,Product 47,Technology,323.43
+48,Product 48,Furniture,231.84
+49,Product 49,Office Supplies,275.08
+50,Product 50,Office Supplies,471.03
